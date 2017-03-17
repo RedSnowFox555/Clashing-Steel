@@ -3,6 +3,7 @@ v1.0:
   
 v1.1:
   -Lowered the size of title
+  
   -Turned off openblocks graves
   -Added RTG
   -Small config changes
